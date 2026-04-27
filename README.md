@@ -3,8 +3,6 @@
 
 This repository contains a modular framework for generating and evaluating symbolic reasoning tasks between agents (or models), focusing on visual communication using structured shape-number programs. This codebase supports the paper "Math Takes Two: A test for emergent mathematical reasoning in communication" - [arXiv:2604.21935](https://arxiv.org/abs/2604.21935) 
 
-https://arxiv.org/abs/2604.21935
-
 The system supports:
 
 * Human-in-the-loop experiments (describer ↔ visualizer)
